@@ -19,7 +19,7 @@ html.themecolor-toodark.darkmode{
 }
 
 body{
-	background: #f4f5f7 !important;
+	background: url('/home/wtt/下载/m&x.jpeg') !important;
 	font-family: 'Open Sans', -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Helvetica, Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimSun, sans-serif;
 }
 a{
